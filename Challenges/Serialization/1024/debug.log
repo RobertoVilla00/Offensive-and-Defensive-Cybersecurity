@@ -1,0 +1,103 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /viewer.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /viewer.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'user_bak': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /viewer.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files:  O:4:"Game":3:{s:7:"ranking";s:5:"false";s:7:"changed";s:5:"false";s:4:"path";s:15:"./games/ranking";}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /viewer.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'user_bak': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /history.php HTTP/1.1" 200 None
+DEBUG:charset_normalizer:Encoding detection: ascii is most likely the one.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'user_bak': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /history.php HTTP/1.1" 200 None
+DEBUG:charset_normalizer:Encoding detection: ascii is most likely the one.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /history.php HTTP/1.1" 200 None
+DEBUG:charset_normalizer:Encoding detection: ascii is most likely the one.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /viewer.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /innerGame.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST /innerGame.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /innergame.php HTTP/1.1" 404 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php?action=getRanking HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php?action=getRanking HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php?action=getRanking HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php?action=getRanking HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /game.php?action=getRanking HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /index.php HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /replay.php?action=next HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /replay.php?action=up HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): 1024.training.jinblack.it:80
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "POST //viewer.php HTTP/1.1" 200 None
+DEBUG:root:Upload Files: {'': <_io.BufferedReader name='upload.py'>}
+DEBUG:urllib3.connectionpool:http://1024.training.jinblack.it:80 "GET /games/env.php HTTP/1.1" 200 None

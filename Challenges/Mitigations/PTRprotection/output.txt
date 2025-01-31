@@ -1,0 +1,10 @@
+[x] Opening connection to bin.training.offdef.it on port 4202
+[x] Opening connection to bin.training.offdef.it on port 4202: Trying 128.140.84.2
+[+] Opening connection to bin.training.offdef.it on port 4202: Done
+74
+[*] Switching to interactive mode
+Welcome to ptr_protection
+Enter index: Enter data: Enter index: Enter data: Enter index: return 0x5583d8f341e8
+WIN!
+flag{only_1byte_is_really_random_tham_zeroos!}
+[*] Closed connection to bin.training.offdef.it port 4202

